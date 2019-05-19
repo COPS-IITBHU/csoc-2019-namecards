@@ -4,6 +4,8 @@ This repository contains your first challenge of this week. To fully accomplish
 this challenge you should have get successfully merged your pull request about
 including your namecard in it.
 
+The Web Page is live at - [COPS-NameCards](https://cops-iitbhu.github.io/cops_namecards/index.html)
+
 ## Steps to Contribute
 
 - Fork the project to your github account
