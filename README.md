@@ -1,4 +1,4 @@
-# Cops Contributors NameCards
+# [Cops Contributors NameCards](https://cops-iitbhu.github.io/cops_namecards/index.html)
 
 This repository contains your first challenge of this week. To fully accomplish
 this challenge you should have get successfully merged your pull request about
