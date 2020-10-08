@@ -1,8 +1,8 @@
 # [Cops Contributors NameCards](https://cops-iitbhu.github.io/cops_namecards/index.html)
 
 This repository contains your first challenge of this week. To fully accomplish
-this challenge you should have get successfully merged your pull request about
-including your namecard in it.
+this challenge you should get your pull request successfully merged by
+including your namecard in the PR.
 
 The Web Page is live at - [COPS-NameCards](https://cops-iitbhu.github.io/cops_namecards/index.html)
 
