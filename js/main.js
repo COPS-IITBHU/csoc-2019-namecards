@@ -1,6 +1,6 @@
 require([
     'my-lazy-load',
-    'contribuitors-count',
+    'contributors-count',
     'countdown',
     'copyright',
     'arrow'
