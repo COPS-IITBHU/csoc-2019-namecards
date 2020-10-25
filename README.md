@@ -18,4 +18,4 @@ The Web Page is live at - [COPS-NameCards](https://cops-iitbhu.github.io/cops_na
 ## Editing guidelines
 
 - Include your image in the images directory of the cloned repository(Image size should not exceed 1 MB)
-- Copy the template of first card at the end of the existing cards and fill in the required details.(Don't forget to link your github profile).
+- Copy the template of first card at the end of the existing cards and fill in the required details.(Don't forget to link your github profile). 
